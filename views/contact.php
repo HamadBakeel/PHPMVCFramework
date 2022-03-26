@@ -11,8 +11,8 @@
     </div>
     <div class="mb-3">
         <label class="form-label">Body</label>
-        <textarea class="form-control" name="subject" ></textarea>
+        <textarea class="form-control" name="body" ></textarea>
     </div>
 
-    <button type="submit" class="btn btn-primary">Submit</button>
+    <button type="submit" name="submit" class="btn btn-primary">Submit</button>
 </form>
