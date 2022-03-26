@@ -16,8 +16,8 @@ class SiteController extends Controller {
     public static function handleContact(Request $request){
 
         $body = $request->getBody();
-        echo "<pre>";
-        var_dump($body);
+//        echo "<pre>";
+//        var_dump($body);
         return "Handling Submitted Dataaa";
     }
 
