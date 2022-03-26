@@ -6,13 +6,13 @@
         <div class="col">
             <div class="mb-3">
                 <label class="form-label">First Name</label>
-                <input type="text" class="form-control" name="firstName" >
+                <input type="text" class="form-control" name="firstname" >
             </div>
         </div>
         <div class="col">
             <div class="mb-3">
                 <label class="form-label">Last Name</label>
-                <input type="text" class="form-control" name="lastName" >
+                <input type="text" class="form-control" name="lastname" >
             </div>
         </div>
 
@@ -28,7 +28,7 @@
     </div>
     <div class="mb-3">
         <label class="form-label">Confirm Password</label>
-        <input type="password" class="form-control" name="confirmPassword" >
+        <input type="password" class="form-control" name="passwordConfirm" >
     </div>
 
 
